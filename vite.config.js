@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  // base: '/Hillel-HW-32.1/',
+  base: '/Hillel-HW-32.1/',
 });
