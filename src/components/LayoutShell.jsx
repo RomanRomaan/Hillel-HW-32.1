@@ -31,7 +31,7 @@ export default function LayoutShell({ children }) {
             </Content>
 
             <Footer style={{ textAlign: 'center' }}>
-                © {new Date().getFullYear()} Ваше ім’я • Email: you@example.com • Telegram: @your_nick
+                © {new Date().getFullYear()} Roman 2025(C)
             </Footer>
         </Layout>
     );

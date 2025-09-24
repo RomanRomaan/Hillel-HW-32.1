@@ -40,9 +40,9 @@ export default function Home() {
 
             <Card title="Контакти">
                 <Paragraph>
-                    Email: <a href="mailto:you@example.com">you@example.com</a><br />
+                    Email: <a href="mailto:you@example.com">coder@gmail.com</a><br />
                     Telegram: <a href="https://t.me/https://t.me/romanptv" target="_blank" rel="noreferrer">@https://t.me/romanptv</a><br />
-                    GitHub: <a href="https://github.com/your_github" target="_blank" rel="noreferrer">github.com/your_github</a>
+                    GitHub: <a href="https://github.com/RomanRomaan/Hillel-HW-31.1" target="_blank" rel="noreferrer">https://github.com/RomanRomaan/Hillel-HW-31.1</a>
                 </Paragraph>
             </Card>
         </Space>
